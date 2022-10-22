@@ -7,7 +7,7 @@ Describle briefly what your project is about with as few sentences as possible. 
 
 ## Setup and Installation
 
-- must have proper `requirements.txt` file
+- must have proper `requirements.txt` file having even the version information.
 - must use either conda environments or python virtual environments to code your project.
 
 ## Sample outputs
