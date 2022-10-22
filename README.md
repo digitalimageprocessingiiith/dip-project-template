@@ -1,6 +1,5 @@
-# dip-project-template
-DIP M22 Project Template
-
+# dip-project-template 
+(Replace above heading with your project name - think of something cool to describe your work :) )
 
 ## Brief Description
 
